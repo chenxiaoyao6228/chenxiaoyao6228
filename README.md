@@ -6,7 +6,7 @@
 - 是一名 tdd 践行者
 - 是一名长跑与街头健身爱好者
 
-更多，可以在 [我的博客](chenxiaoyao6228.github.io/)找到我
+更多，可以在 [我的博客](https://chenxiaoyao6228.github.io/)找到我
 
 <!--
 **chenxiaoyao6228/chenxiaoyao6228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
