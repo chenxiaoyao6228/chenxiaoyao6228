@@ -2,4 +2,4 @@
 
 > Working on 365-day Github commit challenges 📚
 
-For more, please view my personal [blog](https://www.chenxiaoyao.cn)
+For more, please visit my personal [blog](https://www.chenxiaoyao.cn)
