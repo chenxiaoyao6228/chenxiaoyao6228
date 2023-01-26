@@ -2,7 +2,7 @@
 
 I'm York Chan, Front-End Developer focusing on React, Vue, Typescript, Babel, and NodeJS, dedicated to building useful tools for people and having a strong interest in reversed engineering.
 
-- [gracefule-ui](https://chenxiaoyao.cn/graceful-ui/?path=/docs/%E7%BB%BC%E8%BF%B0-%E4%BB%8B%E7%BB%8D--page): A tiny ant-design-like UI library for learning purpose
+- [graceful-ui](https://chenxiaoyao.cn/graceful-ui/?path=/docs/%E7%BB%BC%E8%BF%B0-%E4%BB%8B%E7%BB%8D--page): A tiny ant-design-like UI library for learning purpose
 
 - [lodash-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/lodash-tiny): A utility function library, including date, string, array, event-bus and other commonly used tools
 
