@@ -6,7 +6,7 @@ I'm York Chan, Front-End Developer focusing on React, Vue, Typescript, Babel, an
 
 - [lodash-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/lodash-tiny): A utility function library, including date, string, array, event-bus and other commonly used tools
 
-- [ts-toolbelt-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/main/packages/ts-toolbelt-tiny)Collection of utility types, complementing TypeScript built-in mapped types and aliases.
+- [ts-toolbelt-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/main/packages/ts-toolbelt-tiny) A Collection of utility types, complementing TypeScript built-in mapped types and aliases.
 
 - [promise-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/promise-tiny): A simple promise implementation, based on the browser event loop, use setTimeout(\_,0) under the hook
 
