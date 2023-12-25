@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I'm York Chan, Front-End Developer focusing on React, Vue, Typescript, Babel, and NodeJS, dedicated to building useful tools for people and having a strong interest in reversed engineering.
+I'm York Chan, a Front-End Developer focusing on React, Vue, Typescript, Babel, and NodeJS, dedicated to building useful tools for people and having a strong interest in reverse engineering.
 
 - [graceful-ui](https://github.com/chenxiaoyao6228/graceful-ui): A tiny ant-design-like UI library for learning purpose。
 
