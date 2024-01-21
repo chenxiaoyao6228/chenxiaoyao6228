@@ -2,13 +2,15 @@
 
 I'm York Chan, a Front-End Developer focusing on React, Vue, Typescript, Babel, and NodeJS, dedicated to building useful tools for people and having a strong interest in reverse engineering.
 
-- [graceful-ui](https://github.com/chenxiaoyao6228/graceful-ui): A tiny ant-design-like UI library for learning purpose。
+- [graceful-ui](https://github.com/chenxiaoyao6228/graceful-ui): A tiny ant-design-like UI library for learning purposes。
 
-- [react-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/react-tiny): A simple React implementation
+- [bundler-tiny](https://github.com/chenxiaoyao6228/fe-notes/tree/main/Webpack): Simple intro on JS modular history, build simple SeaJS, RequireJS, Webpack, Vite and other bundlers from scratch, hoping to help you understand advanced concepts like HMR and others.
 
-- [vue-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/vue-tiny): A tiny Vue3 implementation with composition API
+- [vue3-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/vue-tiny): A tiny Vue3 implementation with composition API
 
-- [angular-tiny](https://github.com/chenxiaoyao6228/angular-tiny): A tiny AngularJS-like framework with a dependency injection system a custom directive system and supports for modular component development
+- [angular-tiny](https://github.com/chenxiaoyao6228/angular-tiny): A tiny AngularJS-like framework with a dependency injection system a custom directive system and support for modular component development
+
+- [react-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/react-tiny): A simple React implementation with hooks
 
 - [promise-tiny](https://github.com/chenxiaoyao6228/js-rocks/blob/master/packages/promise-tiny): A simple promise implementation, based on the browser event loop, use setTimeout(\_,0) under the hook
 
